@@ -6,18 +6,12 @@
 yarn install
 ```
 
-- Start
+## Nodemon start
 
 ```bash
 yarn start
 ```
 
-- Debug in VSCode
+## Debug
 
-- Open VSCode command and toggle autoattach mode on
-
-```bash
-yarn run debug
-```
-
-Note: Sometimes, VSCode fail to attach to process -> Reload VSCode window
+- Run debug config

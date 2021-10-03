@@ -4,8 +4,7 @@
   "description": "This is a node playground for testing some js module",
   "main": "index.js",
   "scripts": {
-    "start": "env-cmd -f ./.env nodemon --exec babel-node src/index.js",
-    "debug": "env-cmd -f ./.env nodemon --inspect-brk --exec babel-node src/index.js"
+    "start": "env-cmd -f ./.env nodemon --exec babel-node src/index.js"
   },
   "keywords": [],
   "author": "",
