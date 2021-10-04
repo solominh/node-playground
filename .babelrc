@@ -1,5 +1,6 @@
 {
   "presets": ["@babel/preset-env"],
+  // "presets": ["es2020"],
   "sourceMaps": "inline",
   "retainLines": true
 }
